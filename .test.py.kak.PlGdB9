@@ -1,0 +1,24 @@
+"""This is a test file.
+
+Author: Yuhuang Hu
+Email : duguyue100@gmal.com
+"""
+
+import numpy as np
+
+A = "This is a test"
+
+def something():
+    return "this is something"
+
+something()
+
+print "something"
+
+print "something changes"
+
+print "something else"
+
+print "something is great"
+
+print "This is nothing right?"
